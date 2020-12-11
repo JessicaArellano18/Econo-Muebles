@@ -1,0 +1,50 @@
+
+
+
+h1{
+    font-size: 25px;
+    }
+    .productos{
+    margin: 20px;
+    }
+
+    h2{
+    font-size: 30px;
+    font-weight: bold;
+    }
+
+    h3{
+    font-size: 20px
+    }
+    h4{
+        color:#c0392b;
+        font-size: 30px;
+    }
+
+    .navbar{
+    padding: 10px;
+    align-items: center;
+    }
+
+    .nav-link{
+    font-size: 25px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 20px;
+    }
+
+    .active{
+        font-weight: bold;
+    }
+    .titulodeclase{
+        margin-bottom: 30px;
+        }
+
+    .imgcategoria{
+        border-radius: 30px;
+    }
+    .precio{
+        color: red;
+    }
+    
+    
