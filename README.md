@@ -14,4 +14,4 @@ Jessica Belen Arellano Saenz
 
 5-V
 
-Para que el proyecto funcione tiene que estar dentro del disco duro (c:/)
+Para que el proyecto funcione tiene que estar dentro del disco duro (c:/), dentro de una carpeta llamada Econo-muebles.
