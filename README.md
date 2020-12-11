@@ -1,7 +1,7 @@
 # Econo-Muebles
 Proyecto escolar Mario Macias
-
-Irvin Gonzales Gallegoz 
-Diego Alejandro Picazo
-Jessica Belen Arellano 
+Profesor Ing. Mario Macias Flores
+Irvin Raul Gallegoz Gonzalez - 
+Diego Alejandro Alejandro Picazo -
+Jessica Belen Arellano Saenz 
 5-V
