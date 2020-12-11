@@ -6,7 +6,7 @@ Profesor Ing. Mario Macias Flores
 Irvin Raul Gallegoz Gonzalez
 
 
-Diego Alejandro Alejandro Picazo
+Diego Alejandro Picazo Robles
 
 
 Jessica Belen Arellano Saenz 
