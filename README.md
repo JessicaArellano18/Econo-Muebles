@@ -13,3 +13,5 @@ Jessica Belen Arellano Saenz
 
 
 5-V
+
+Para que el proyecto funcione tiene que estar dentro del disco duro (c:/)
